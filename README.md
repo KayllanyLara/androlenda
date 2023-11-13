@@ -36,3 +36,6 @@ A enzima CK-Mb é liberada quando há dano nas células musculares, incluindo as
 
 _Troponina:_<br>
 A troponina é outra proteína liberada quando ocorre dano ao músculo cardíaco. Seus níveis elevados também podem indicar problemas cardíacos. Unidade de medida: Nanogramas por mililitro (ng/mL).
+
+<b> Funcionamento Código </b><br>
+<b> Modelo </b><br>
