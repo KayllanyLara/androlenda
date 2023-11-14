@@ -42,7 +42,7 @@ _Troponina:_<br>
 A troponina é outra proteína liberada quando ocorre dano ao músculo cardíaco. Seus níveis elevados também podem indicar problemas cardíacos. Unidade de medida: Nanogramas por mililitro (ng/mL).
 
 <b> Funcionamento Código </b><br>
--
+- Gente, oq vcs acham de prints comentadas dos codigos aqui?
 <b> Modelo </b><br>
 -
 
