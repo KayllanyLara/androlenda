@@ -41,7 +41,6 @@ _Troponina:_<br>
 A troponina é outra proteína liberada quando ocorre dano ao músculo cardíaco. Seus níveis elevados também podem indicar problemas cardíacos. Unidade de medida: Nanogramas por mililitro (ng/mL).
 
 <b> Funcionamento Código </b><br>
-- Gente, oq vcs acham de prints comentadas dos codigos aqui?
 - Floresta de Classificação.
 - Bibliotecas usadas:
 - Pandas: Biblioteca fundamental para manipulação e análise de dados em Python. Utiliza estruturas de dados, como o DataFrame, facilitando operações como carregamento, limpeza e transformação de dados de forma eficiente.
@@ -66,5 +65,5 @@ RandomForestClassifier: Algoritmo de aprendizado de máquina baseado em árvores
 Pendências e Passos futuros:
 - Tirar texto do codigo sobre os atributos (já foi colocado no read me acima)
 - Colocar parametros e medir a eficacia do modelo
-- 
+- comentar no codigo coisas importantes
 
