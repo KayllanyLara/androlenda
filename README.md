@@ -39,3 +39,8 @@ A troponina é outra proteína liberada quando ocorre dano ao músculo cardíaco
 
 <b> Funcionamento Código </b><br>
 <b> Modelo </b><br>
+
+Pendências e Passos futuros:
+- Tirar texto do codigo sobre os atributos (já foi colocado no read me acima)
+- Colocar parametros e medir a eficacia do modelo
+
