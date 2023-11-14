@@ -2,7 +2,7 @@
 Grupo: Natália Alcantara, Kayllany Oliveira, Daniel Carrasco e Gabriel González
 
 <b>Descrição do Projeto</b><br>
-Este repositório trata-se do trabalho final que se concentra na criação de um modelo de aprendizado de máquina para prever se uma pessoa teve ou não um infarto. O modelo utiliza dados clínicos, incluindo a quantidade de duas proteínas específicas, para fazer previsões.
+Este repositório trata-se do trabalho final que se concentra na criação de um modelo de aprendizado de máquina para prever se uma pessoa teve ou não um infarto. O modelo utiliza dados clínicos, incluindo a quantidade de duas proteínas específicas, para fazer previsões. 
 
 ![Cópia de Apresentação de Negócios Plano de Projeto 3D Azul Branco](https://github.com/KayllanyLara/androlenda/assets/135054073/3c68c95b-fc00-47bb-99a3-0355b24c42cf)
 
