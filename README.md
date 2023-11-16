@@ -43,20 +43,20 @@ A troponina é outra proteína liberada quando ocorre dano ao músculo cardíaco
 <b> Funcionamento Código </b><br>
 O codigo usa como modelo uma "Floresta de Classificação". Sendo as Bibliotecas e funções usadas e necessárias para importação:
 
-- Pandas: Biblioteca fundamental para manipulação e análise de dados em Python. Utiliza estruturas de dados, como o DataFrame, facilitando operações como carregamento, limpeza e transformação de dados de forma eficiente.
+-Pandas: Biblioteca fundamental para manipulação e análise de dados em Python. Utiliza estruturas de dados, como o DataFrame, facilitando operações como carregamento, limpeza e transformação de dados de forma eficiente.
 
-Scikit-learn (sklearn): Biblioteca abrangente de aprendizado de máquina em Python, oferecendo ferramentas eficazes para análise preditiva, incluindo algoritmos de classificação, regressão e clustering.
+-Scikit-learn (sklearn): Biblioteca abrangente de aprendizado de máquina em Python, oferecendo ferramentas eficazes para análise preditiva, incluindo algoritmos de classificação, regressão e clustering.
 
-Seaborn (sns): Extensão do Matplotlib, Seaborn é uma biblioteca para visualização estatística de dados em Python. Possui uma interface de alto nível que simplifica a criação de gráficos informativos e atraentes.
+-Seaborn (sns): Extensão do Matplotlib, Seaborn é uma biblioteca para visualização estatística de dados em Python. Possui uma interface de alto nível que simplifica a criação de gráficos informativos e atraentes.
 
-NumPy: Biblioteca fundamental para computação numérica em Python. Fornece suporte para arrays multidimensionais e operações matemáticas eficientes.
+-NumPy: Biblioteca fundamental para computação numérica em Python. Fornece suporte para arrays multidimensionais e operações matemáticas eficientes.
 
-RandomizedSearchCV: Classe em scikit-learn utilizada para otimização de hiperparâmetros por meio de busca aleatória. Ideal para encontrar os melhores parâmetros para modelos de machine learning.
+-RandomizedSearchCV: Classe em scikit-learn utilizada para otimização de hiperparâmetros por meio de busca aleatória. Ideal para encontrar os melhores parâmetros para modelos de machine learning.
 
-Confusion Matrix: Função em scikit-learn para calcular a matriz de confusão, uma ferramenta essencial na avaliação do desempenho de modelos de classificação.
+-Confusion Matrix: Função em scikit-learn para calcular a matriz de confusão, uma ferramenta essencial na avaliação do desempenho de modelos de classificação.
 
-Train-Test Split: Função em scikit-learn para dividir conjuntos de dados em conjuntos de treino e teste, essencial para avaliar a capacidade de generalização de um modelo.
+-Train-Test Split: Função em scikit-learn para dividir conjuntos de dados em conjuntos de treino e teste, essencial para avaliar a capacidade de generalização de um modelo.
 
-RandomForestClassifier: Algoritmo de aprendizado de máquina baseado em árvores de decisão, implementado em scikit-learn. Amplamente utilizado para tarefas de classificação.
+-RandomForestClassifier: Algoritmo de aprendizado de máquina baseado em árvores de decisão, implementado em scikit-learn. Amplamente utilizado para tarefas de classificação.
 
 
