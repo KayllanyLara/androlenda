@@ -41,8 +41,8 @@ _Troponina:_<br>
 A troponina é outra proteína liberada quando ocorre dano ao músculo cardíaco. Seus níveis elevados também podem indicar problemas cardíacos. Unidade de medida: Nanogramas por mililitro (ng/mL).
 
 <b> Funcionamento Código </b><br>
-- Floresta de Classificação.
-- Bibliotecas usadas:
+O codigo usa como modelo uma "Floresta de Classificação". Sendo as Bibliotecas e funções usadas e necessárias para importação:
+
 - Pandas: Biblioteca fundamental para manipulação e análise de dados em Python. Utiliza estruturas de dados, como o DataFrame, facilitando operações como carregamento, limpeza e transformação de dados de forma eficiente.
 
 Scikit-learn (sklearn): Biblioteca abrangente de aprendizado de máquina em Python, oferecendo ferramentas eficazes para análise preditiva, incluindo algoritmos de classificação, regressão e clustering.
@@ -59,11 +59,4 @@ Train-Test Split: Função em scikit-learn para dividir conjuntos de dados em co
 
 RandomForestClassifier: Algoritmo de aprendizado de máquina baseado em árvores de decisão, implementado em scikit-learn. Amplamente utilizado para tarefas de classificação.
 
-<b> Modelo </b><br>
--
-
-Pendências e Passos futuros:
-- Tirar texto do codigo sobre os atributos (já foi colocado no read me acima)
-- Colocar parametros e medir a eficacia do modelo
-- comentar no codigo coisas importantes
 
