@@ -55,8 +55,8 @@ O codigo usa como modelo uma "Floresta de Classificação". Sendo as Bibliotecas
 
 - Confusion Matrix: Função em scikit-learn para calcular a matriz de confusão, uma ferramenta essencial na avaliação do desempenho de modelos de classificação.
 
--Train-Test Split: Função em scikit-learn para dividir conjuntos de dados em conjuntos de treino e teste, essencial para avaliar a capacidade de generalização de um modelo.
+- Train-Test Split: Função em scikit-learn para dividir conjuntos de dados em conjuntos de treino e teste, essencial para avaliar a capacidade de generalização de um modelo.
 
--RandomForestClassifier: Algoritmo de aprendizado de máquina baseado em árvores de decisão, implementado em scikit-learn. Amplamente utilizado para tarefas de classificação.
+- RandomForestClassifier: Algoritmo de aprendizado de máquina baseado em árvores de decisão, implementado em scikit-learn. Amplamente utilizado para tarefas de classificação.
 
 
